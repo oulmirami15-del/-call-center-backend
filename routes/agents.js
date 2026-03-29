@@ -9,7 +9,7 @@ const AGENTS = [
   { id: "agent1", name: "Youssef", password: "pass1", role: "agent" },
   { id: "agent2", name: "Karim",   password: "pass2", role: "agent" },
   { id: "agent3", name: "Sara",    password: "pass3", role: "agent" },
-  { id: "agent4", name: "Admin",   password: "adminpass", role: "admin" }
+  { id: "agent4", name: "LAARBI",  password: "adminpass", role: "admin" }
 ];
 
 router.post('/login', (req, res) => {
